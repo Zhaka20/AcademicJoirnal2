@@ -1,0 +1,6 @@
+D:\vs2015\AcademicJournal.FrontEndModels\obj\Debug\AcademicJournal.FrontEndModels.dll
+D:\vs2015\AcademicJournal.FrontEndModels\obj\Debug\AcademicJournal.FrontEndModels.pdb
+D:\vs2015\AcademicJournal.FrontEndModels\bin\Debug\AcademicJournal.FrontEndModels.dll.config
+D:\vs2015\AcademicJournal.FrontEndModels\bin\Debug\AcademicJournal.FrontEndModels.dll
+D:\vs2015\AcademicJournal.FrontEndModels\bin\Debug\AcademicJournal.FrontEndModels.pdb
+D:\vs2015\AcademicJournal.FrontEndModels\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll

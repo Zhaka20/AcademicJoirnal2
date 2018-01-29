@@ -1,0 +1,13 @@
+D:\vs2015\AcademicJournal.AbstractBLL\obj\Debug\AcademicJournal.AbstractBLL.csprojResolveAssemblyReference.cache
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\AcademicJournal.AbstractBLL.dll.config
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\AcademicJournal.AbstractBLL.dll
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\AcademicJournal.AbstractBLL.pdb
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\AcademicJournal.DataModel.dll
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\AcademicJournal.DataModel.pdb
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\vs2015\AcademicJournal.AbstractBLL\obj\Debug\AcademicJournal.AbstractBLL.dll
+D:\vs2015\AcademicJournal.AbstractBLL\obj\Debug\AcademicJournal.AbstractBLL.pdb
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\AcademicJournal.FrontEndModels.dll
+D:\vs2015\AcademicJournal.AbstractBLL\bin\Debug\AcademicJournal.FrontEndModels.pdb
